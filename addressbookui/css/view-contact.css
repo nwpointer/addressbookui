@@ -1,0 +1,434 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.container {
+  float: left;
+}
+
+.container .container {
+  width: 54.1036777978%;
+  height: 28px;
+  margin-left: 45.4723%;
+}
+
+.container .text {
+  width: 211.9115883855%;
+  min-height: 44px;
+  margin: -24px 0 0 -84.18354%;
+}
+
+.hr {
+  float: left;
+  clear: both;
+  width: 99.8871841155%;
+  height: 1px;
+  margin: 23px 0 0 -0.03963%;
+  background-color: rgb(0, 0, 0);
+}
+
+.image {
+  display: block;
+  float: left;
+  height: auto;
+  overflow: hidden;
+}
+
+.text {
+  float: left;
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.38;
+  color: rgb(0, 0, 0);
+}
+
+.text-5 p {
+  margin-bottom: 1em;
+}
+
+.container-1 {
+  width: 3.8333333333%;
+  height: 31px;
+  margin: 76px 0 0 18.96615%;
+}
+
+.container-2 {
+  position: relative;
+  z-index: 3;
+  width: 45.9995843724%;
+  height: 52px;
+  margin: 81px 0 0 0.79688%;
+}
+
+.container-4 {
+  position: relative;
+  clear: both;
+  z-index: 9;
+  width: 3.25%;
+  height: 26px;
+  margin: -52px 0 0 62.5%;
+}
+
+.container-5 {
+  position: relative;
+  z-index: 11;
+  width: 3.25%;
+  height: 26px;
+  margin: -52px 0 0 66.41667%;
+}
+
+.image-1 {
+  width: 46px;
+}
+
+.image-2 {
+  width: 39px;
+  margin-left: -0.5609%;
+}
+
+.image-3 {
+  width: 39px;
+  margin-left: -2.1234%;
+}
+
+.text-2 {
+  width: 11.9622395833%;
+  min-height: 23px;
+  margin: 36px 0 0 23.59896%;
+}
+
+.text-3 {
+  position: relative;
+  clear: both;
+  z-index: 5;
+  width: 39.2%;
+  min-height: 59px;
+  margin: 7px 0 0 23.59896%;
+}
+
+.text-4 {
+  position: relative;
+  clear: both;
+  z-index: 6;
+  width: 12%;
+  min-height: 23px;
+  margin: -16px 0 0 23.59896%;
+}
+
+.text-5 {
+  clear: both;
+  width: 39.25%;
+  min-height: 59px;
+  margin: 7px 0 0 23.59896%;
+}
+
+.text a {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 3em;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: #000000;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text span {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  word-spacing: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
+
+.text-1 span {
+  font-style: inherit;
+  font-size: 4em;
+  letter-spacing: inherit;
+  color: #000000;
+}
+
+.text-2 span,
+.text-4 span {
+  font-style: normal;
+  font-size: inherit;
+  letter-spacing: 1px;
+  color: rgba(0, 0, 0, 0.93);
+}
+
+@media(max-width: 872px) {
+  .container .container {
+    width: 54.0422885572%;
+    margin-left: 45.38974%;
+  }
+
+  .container .hr {
+    width: 99.7784514925%;
+    margin-top: 13px;
+    margin-left: -0.0896%;
+  }
+
+  .container .image {
+    height: auto;
+  }
+
+  .container .text {
+    width: 211.9246260069%;
+    margin-left: -84.18511%;
+  }
+
+  .text {
+    margin-left: 23.5987699999%;
+  }
+
+  .container .image-1 {
+    margin-left: -1.08696%;
+  }
+
+  .container .image-2 {
+    margin-left: -0.6009600001%;
+  }
+
+  .container .image-3 {
+    margin-left: -2.2435900001%;
+  }
+
+  .container-1 {
+    position: relative;
+    z-index: 13;
+    width: 5.2752293577%;
+    height: 30px;
+    margin-top: 81px;
+    margin-left: 26.1002%;
+  }
+
+  .container-2 {
+    position: relative;
+    z-index: 3;
+    width: 45.9987815366%;
+    height: 42px;
+    margin-top: 62px;
+    margin-left: 1.09841%;
+  }
+
+  .container-4 {
+    position: relative;
+    clear: none;
+    z-index: 9;
+    width: 4.4724770642%;
+    margin-top: 81px;
+    margin-left: 7.53476%;
+  }
+
+  .container-5 {
+    position: relative;
+    z-index: 11;
+    width: 4.4724770642%;
+    margin-top: 81px;
+    margin-left: 0.91922%;
+  }
+
+  .text-2 {
+    clear: both;
+    margin-top: 28px;
+  }
+
+  .text-3 {
+    position: relative;
+    z-index: 5;
+  }
+
+  .text-4 {
+    position: relative;
+    z-index: 6;
+  }
+}
+
+@media(max-width: 586px) {
+  body {
+    font-size: 1em;
+  }
+
+  .container .container {
+    width: 54.074074074%;
+    margin-left: 45.21477%;
+  }
+
+  .container .hr {
+    width: 99.8321759259%;
+    margin-left: -0.29564%;
+  }
+
+  .container .image {
+    height: auto;
+  }
+
+  .container .text {
+    width: 211.922089041%;
+    margin-left: -84.18739%;
+  }
+
+  .text {
+    margin-left: 23.59482%;
+  }
+
+  .container .image-1 {
+    margin-left: -0.27174%;
+  }
+
+  .container .image-2 {
+    margin-left: -0.5609%;
+  }
+
+  .container .image-3 {
+    margin-left: -2.1234%;
+  }
+
+  .container-1 {
+    position: relative;
+    z-index: 13;
+    width: 7.8498293515%;
+    margin-left: 38.8358599999%;
+  }
+
+  .container-2 {
+    position: relative;
+    z-index: 3;
+    width: 45.9977602389%;
+    margin-left: 1.6318299999%;
+  }
+
+  .container-4 {
+    position: relative;
+    clear: both;
+    z-index: 9;
+    width: 6.6552901023%;
+    margin-top: -31px;
+    margin-left: 127.98635%;
+  }
+
+  .container-5 {
+    position: relative;
+    clear: both;
+    z-index: 11;
+    width: 6.6552901023%;
+    margin-top: -31px;
+    margin-left: 136.00683%;
+  }
+
+  .text-2 {
+    clear: none;
+  }
+
+  .text-3 {
+    position: relative;
+    z-index: 5;
+  }
+
+  .text-4 {
+    position: relative;
+    z-index: 6;
+  }
+}
+
+@media(max-width: 400px) {
+  .container .container {
+    width: 54.1610054347%;
+    margin-left: 45.22758%;
+  }
+
+  .container .hr {
+    width: 100%;
+    margin-left: -0.36515%;
+  }
+
+  .container .image {
+    height: auto;
+  }
+
+  .container .text {
+    width: 211.9159611163%;
+    margin-left: -84.1956700001%;
+  }
+
+  .text {
+    margin-left: 23.59766%;
+  }
+
+  .container .image-1 {
+    margin-left: 0;
+  }
+
+  .container-1 {
+    position: relative;
+    z-index: 13;
+    width: 11.5%;
+    margin-left: 56.89844%;
+  }
+
+  .container-2 {
+    position: relative;
+    clear: both;
+    z-index: 3;
+    width: 46%;
+    margin-top: -50px;
+    margin-left: 70.79688%;
+  }
+
+  .container-4 {
+    position: relative;
+    z-index: 9;
+    width: 9.75%;
+    margin-left: 187.5%;
+  }
+
+  .container-5 {
+    position: relative;
+    z-index: 11;
+    width: 9.75%;
+    margin-left: 199.25%;
+  }
+
+  .text-3 {
+    position: relative;
+    z-index: 5;
+  }
+
+  .text-4 {
+    position: relative;
+    z-index: 6;
+  }
+}
